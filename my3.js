@@ -1,6 +1,6 @@
 function play_se2(){
-    var 替え歌 海の幽霊 = new Audio('替え歌 海の幽霊.mp3');
-    替え歌 海の幽霊.play();
+    var 海の幽霊 = new Audio('海の幽霊.mp3');
+    海の幽霊.play();
 }
 
 
